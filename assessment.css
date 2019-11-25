@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(90deg, #333333, #343434);
+    /*「css グラデーション」で検索*/
+    color: rgb(173, 173, 173);
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+button{
+    padding: 5px 20px;
+    background-color:#696773;
+    border-style: none;
+    color: rgb(245, 235, 235);
+}
+
+input{
+    height: 24px;
+}
